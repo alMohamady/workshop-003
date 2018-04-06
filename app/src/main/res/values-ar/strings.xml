@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ورشة العمل 3</string>
+    <string name="cancel">إلغاء الأمر</string>
+    <string name="myStr">أهلا أندرويد</string>
+    <string name="myStr2">التطبيق</string>
+    <string name="ok">موافق</string>
+    <string name="password">أدخل كلمة السر</string>
+    <string name="userName">أسم المستخدم</string>
+</resources>

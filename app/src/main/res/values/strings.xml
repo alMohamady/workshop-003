@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">workshop003</string>
+    <string name="myStr">Hello Android</string>
+    <string name="myStr2">The Application</string>
+    <string name="userName">User Name</string>
+    <string name="password">Enter Your password</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
